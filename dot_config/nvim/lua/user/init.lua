@@ -26,8 +26,6 @@ return {
   },
   mappings = {
     n = {
-      -- Override
-      ["<leader>d"] = "Debug",
       -- Debugger
       ["<leader>du"] = { "<cmd>PackerLoad nvim-dap-ui<CR> <bar> <cmd>lua require('dapui').toggle()<CR>", desc =
       "Toggle Dap UI" },
@@ -44,6 +42,11 @@ return {
       ["<leader>dr"] = { "<cmd>lua require('dap').repl.open()<CR>", desc = "Open REPL" },
       ["<leader>da"] = { "<cmd>lua require('dap').repl.open()<CR>", desc = "Run Last" },
       ["<leader>dk"] = { "<cmd>lua require('dapui').eval()<CR>", desc = "Hover Variable" },
+
+      -- ToggleTerm
+      ["<leader>th"] = { "<cmd>ToggleTerm direction=horizontal<cr>", desc = "ToggleTerm horizontal split" },
+      ["<leader>tv"] = { "<cmd>ToggleTerm direction=vertical<cr>", desc = "ToggleTerm vertical split" },
+
       -- Move current line / block with Alt-j/k a la vscode.
       ["<M-j>"] = ":m .+1<CR>==",
       ["<M-k>"] = ":m .-2<CR>==",
@@ -90,7 +93,7 @@ return {
           if term.direction == "horizontal" then
             return 10
           elseif term.direction == "vertical" then
-            return vim.o.columns * 0.8
+            return vim.o.columns * 0.4
           end
         end
 
