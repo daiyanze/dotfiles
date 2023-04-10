@@ -27,26 +27,13 @@ return {
   mappings = {
     n = {
       -- Debugger
-      ["<leader>du"] = { "<cmd>PackerLoad nvim-dap-ui<CR> <bar> <cmd>lua require('dapui').toggle()<CR>", desc =
-      "Toggle Dap UI" },
-      ["<leader>dc"] = { "<cmd>DapContinue<CR>", desc = "Continue" },
-      ["<leader>di"] = { "<cmd>DapStepInto<CR>", desc = "Step Into" },
-      ["<leader>do"] = { "<cmd>DapStepOut<CR>", desc = "Step Out" },
-      ["<leader>dv"] = { "<cmd>DapStepOver<CR>", desc = "Step Over" },
-      ["<leader>dt"] = { "<cmd>DapToggleBreakpoint<CR>", desc = "Toggle Breakpoint" },
-      ["<leader>dn"] = { "<cmd>DapTerminate<CR>", desc = "Terminate" },
       ["<leader>ds"] = { "<cmd>lua require('dap').set_breakpoint(nil, nil, vim.fn.input('Breakpoint condition: '))<CR>", desc =
       "Set Breakpoint Condition" },
       ["<leader>dl"] = { "<cmd>lua require('dap').set_breakpoint(nil, nil, vim.fn.input('Log point message: '))<CR>", desc =
       "Log point message" },
-      ["<leader>dr"] = { "<cmd>lua require('dap').repl.open()<CR>", desc = "Open REPL" },
-      ["<leader>da"] = { "<cmd>lua require('dap').repl.open()<CR>", desc = "Run Last" },
-      ["<leader>dk"] = { "<cmd>lua require('dapui').eval()<CR>", desc = "Hover Variable" },
-
       -- ToggleTerm
       ["<leader>th"] = { "<cmd>ToggleTerm direction=horizontal<cr>", desc = "ToggleTerm horizontal split" },
       ["<leader>tv"] = { "<cmd>ToggleTerm direction=vertical<cr>", desc = "ToggleTerm vertical split" },
-
       -- Move current line / block with Alt-j/k a la vscode.
       ["<M-j>"] = ":m .+1<CR>==",
       ["<M-k>"] = ":m .-2<CR>==",
