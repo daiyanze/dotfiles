@@ -7,8 +7,8 @@ My personal dotfiles repo
 # Install Homebrew
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 
-# Brew install Chezmoi & neovim & tmux & nvm & goenv
-$ brew install chezmoi neovim tmux nvm goenv
+# Brew install Chezmoi & neovim & tmux & nvm & goenv & ripgrep
+$ brew install chezmoi neovim tmux nvm goenv rg
 
 # Generate ssh-key pairs
 $ ssh-keygen -t rsa -b 4096
