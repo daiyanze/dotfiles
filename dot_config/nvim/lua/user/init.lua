@@ -100,6 +100,7 @@ return {
     },
 
     -- Extra custom plugins
+    { "github/copilot.vim" },
     { "sainnhe/gruvbox-material" },
     {
       "martinda/Jenkinsfile-vim-syntax",
