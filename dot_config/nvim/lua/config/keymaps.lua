@@ -2,10 +2,6 @@
 -- Default keymaps that are always set: https://github.com/LazyVim/LazyVim/blob/main/lua/lazyvim/config/keymaps.lua
 -- Add any additional keymaps here
 
--- comment with "/"
-vim.keymap.set("v", "<leader>/", "gc", { desc = "comment linewise", remap = true })
-vim.keymap.set("n", "<leader>/", "gcc", { desc = "comment linewise", remap = true })
-
 -- Move cursor in insert mode
 vim.keymap.set("i", "<C-h>", "<Left>", { desc = "move left" })
 vim.keymap.set("i", "<C-l>", "<Right>", { desc = "move right" })
