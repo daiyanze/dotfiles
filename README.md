@@ -1,4 +1,5 @@
 # dotfiles
+
 My personal dotfiles repo
 
 ## Dependency Installations
@@ -8,7 +9,7 @@ My personal dotfiles repo
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 
 # Brew install
-$ brew install chezmoi neovim tmux nvm volta goenv rg cmake jq bat
+$ brew install chezmoi neovim tmux nvm mise rg cmake jq bat uv
 
 # Generate ssh-key pairs
 $ ssh-keygen -t rsa -b 4096
@@ -26,13 +27,9 @@ $ git clone https://github.com/lukechilds/zsh-nvm ${ZSH_CUSTOM:-~/.oh-my-zsh/cus
 # Need to init plugins after tmux into a new session. And Keyboard <Ctrl+F> -> Shift + I
 $ git clone https://github.com/tmux-plugins/tpm $HOME/.tmux/plugins/tpm
 
-# Install AstroNvim
-$ git clone --depth 1 https://github.com/AstroNvim/AstroNvim ~/.config/nvim
-
 # Init Chezmoi
 $ chezmoi init
 $ chezmoi cd && git remote add origin git@github.com:daiyanze/dotfiles.git && git rebase --onto origin/main
 $ chezmoi apply
 $ cd -
 ```
-
