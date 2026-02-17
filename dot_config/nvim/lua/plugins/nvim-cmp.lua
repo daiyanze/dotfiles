@@ -38,5 +38,25 @@ return {
         end
       end, { "i", "s" }),
     })
+
+    -- CopilotChat-specific cmp config
+    cmp.setup.filetype("copilot-chat", {
+      completion = {
+        autocomplete = false,
+        completeopt = table.concat(vim.opt.completeopt:get(), ","),
+      },
+      mapping = {
+        -- Keep it simple: <Tab> confirms a completion, <CR> sends the chat
+        ["<Tab>"] = cmp.mapping.confirm({ select = true }),
+        ["<S-Tab>"] = cmp.mapping.close(),
+      },
+      sources = cmp.config.sources({
+        { name = "copilot" }, -- from copilot
+        { name = "copilot-chat" }, -- from copilot chat
+        { name = "buffer" }, -- words from the current buffer
+        { name = "path" }, -- filesystem paths
+        { name = "emoji" }, -- since you already depend on cmp-emoji
+      }),
+    })
   end,
 }

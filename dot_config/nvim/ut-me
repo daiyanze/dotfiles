@@ -1,0 +1,1172 @@
+
+              
+              
+              
+              <!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="format-detection" content="telephone=no">
+    <title>UTme! Design Your Own UT T-Shirts or Tote Bag | UNIQLO ID</title>
+    <meta name="description" content="UTme! lets you create your own one-of-a-kind T-shirt and take it home straight away!">
+    <meta name="keywords">
+    <meta name="apple-mobile-web-app-title" content="UTme! Design Your Own UT T-Shirts or Tote Bag | UNIQLO ID">
+    <meta property="fb:app_id" content="176318562473204">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="UTme! Design Your Own UT T-Shirts or Tote Bag | UNIQLO ID">
+    <meta property="og:title" content="UTme! Design Your Own UT T-Shirts or Tote Bag | UNIQLO ID">
+    <meta property="og:description" content="UTme! lets you create your own one-of-a-kind T-shirt and take it home straight away!">
+    <meta property="og:url" content="https://www.uniqlo.com/id/id/special-feature/ut-collection/ut-me">
+    <meta property="og:image" content="https://im.uniqlo.com/global-cms/spa/resdc11d260d8cb131cdc54695bffaa55b0fr.jpg">
+    <link rel="preload" href="/jp/ja/contents/feature/common/icons/header.svg" as="image" type="image/svg+xml">
+    <link rel="preconnect" href="https://www.googletagmanager.com/" crossorigin>
+    <link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
+    <link rel="preconnect" href="https://googleads.g.doubleclick.net" crossorigin>
+    <link rel="preconnect" href="https://www.google.com/" crossorigin>
+    <link rel="canonical" href="https://www.uniqlo.com/id/id/special-feature/ut-collection/ut-me">
+    <link rel="icon" sizes="16x16 32x32 64x64" href="/jp/ja/contents/feature/common/logotypes/uniqlo_roman_64.png">
+    <link rel="stylesheet" href="/jp/ja/special-feature/feature/common/css/ariakedesign@4.2.0/ariakedesign.css" media="all">
+    <link rel="stylesheet" href="/jp/ja/special-feature/travel/23fw/css/index.css?20230723" media="all">
+    <script src="/jp/ja/special-feature/feature/common/js/ariakedesign@5.0.1/ariakedesign.js" defer></script>
+    <script src="/jp/ja/special-feature/travel/23fw/js/app.js?20230723" defer></script>
+    <script src="/jp/ja/contents/feature/common/js/ariakedesign-components@2.8.0/main.js" defer></script>
+    <script>(function(){var d=window.navigator.userAgent.toLowerCase();var c=document.documentElement;switch(true){case d.indexOf("frnativeapp")!=-1&&d.indexOf("uq-ios-jp")!=-1:c.classList.add("frNativeApp","uq-ios-jp");break;case d.indexOf("frnativeapp")!=-1&&d.indexOf("uq-android-jp")!=-1:c.classList.add("frNativeApp","uq-android-jp");break;case d.indexOf("circle-jp")!=-1:c.classList.add("circle-jp");break}}());</script>
+    <script>
+  window.dataLayer = window.dataLayer || [];
+  dataLayer.push({
+    'siteType' : 'responsive',
+    'pageType' : 'category',
+    'subID' : ''
+  });
+</script>
+    <!-- Google Tag Manager-->
+  
+  <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PPTJLPDB');
+  </script>
+  
+<!-- End Google Tag Manager-->​
+    <link rel="stylesheet" href="/jp/ja/special-feature/feature/snippet-style-hint/css/1.2.0/main.css" />
+    <script src="/jp/ja/special-feature/feature/snippet-style-hint/js/1.7.3/main.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css"/>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+    <script>
+  function logEvent(name, params) {
+    if (!name) {
+      return;
+    }
+  
+    if (window.AnalyticsWebInterface) {
+      // Call Android interface
+      window.AnalyticsWebInterface.logEvent(name, JSON.stringify(params));
+    } else if (window.webkit
+        && window.webkit.messageHandlers
+        && window.webkit.messageHandlers.firebase) {
+      // Call iOS interface
+      var message = {
+        command: 'logEvent',
+        name: name,
+        parameters: params
+      };
+      window.webkit.messageHandlers.firebase.postMessage(message);
+    } else {
+      // No Android or iOS interface found
+      console.log("No native APIs found.");
+    }
+  }
+  
+  function setUserProperty(name, value) {
+    if (!name || !value) {
+      return;
+    }
+  
+    if (window.AnalyticsWebInterface) {
+      // Call Android interface
+      window.AnalyticsWebInterface.setUserProperty(name, value);
+    } else if (window.webkit
+        && window.webkit.messageHandlers
+        && window.webkit.messageHandlers.firebase) {
+      // Call iOS interface
+      var message = {
+        command: 'setUserProperty',
+        name: name,
+        value: value
+      };
+      window.webkit.messageHandlers.firebase.postMessage(message);
+    } else {
+      // No Android or iOS interface found
+      console.log("No native APIs found.");
+    }
+  }
+    </script>
+    <!-- End Google Analytics(Firebase)-->
+
+    <style>
+        .overlay-redeemed {
+                position: absolute;
+                width: 100%;
+                height: 100%;
+                top: 0;
+                left: 0;
+                display: flex;
+                background-color: rgb(0, 0, 0, 0.65);
+                align-content: center;
+                justify-content: center;
+                align-items: center;
+                color: #fff;
+                font-size: 16px;
+                font-weight: 900;
+                text-align: center;
+        }     
+        .stylehint-grid .container:after {
+              content: "See Item";
+              position: absolute;
+              left: 1%;
+              bottom: 1%;
+              background-color: #000;
+              color: #fff;
+              padding: 3px 15px;
+              font-size: 8px;
+          }
+        .anya-carousel .swiper-slide:nth-of-type(4) .fr-bff-product_colorChips li:last-of-type {
+            display: none !important;
+          }
+        .fr-bff-products.swiper-container {
+          padding-bottom: 25px;
+        }
+        #recommendation .fr-tabs_itemLink {
+          flex-direction: column;
+        }
+        #recommendation .fr-tabs_itemInner {
+          padding: 5px;
+        }
+        #recommendation .fr-tabs_itemLink .u-imgAdjustBox {
+          max-width: 96px;
+        }
+        #recommendation .fr-tabs_item.-active:after {
+          height: 3px;
+        }
+        .cotab_tab.-active figure {
+          transform:scale(1.1)
+        }
+        li.fr-anchorButton_item {
+          flex: 1;
+        }
+        .txt-editortip:before {
+          content: "Editor's Tip!";
+          background-color: #ff0000;
+          color: #fff;
+          padding: 5px 25px;
+          font-size: 18px;
+        }
+        .txt-editortip_inner {
+          border: 2px solid #ff0000;
+          padding: 10px;
+        }
+        .cotab_content {
+          overflow: hidden;
+        }
+        .fr-bff-userReviews .swiper-wrapper {
+          justify-content: initial;
+        }
+      
+        /* swiper modules */
+        .swiper {
+          width: 100%;
+          height: 100%;
+        }
+        .swiper-slide {
+          text-align: center;
+          font-size: 14px;
+          justify-content: center;
+          align-items: center;
+        }
+        .swiper-slide h3,
+        .swiper-slide .swiper-text {
+          font-size: 14px;
+        }
+        /* end of swiper modules */
+  
+        /* modal modules */
+        .stylehint-grid {
+          display: flex;
+          flex-wrap: wrap;
+          gap: 1px;
+          align-items: center;
+        }
+        .stylehint-grid .container {
+          display: flex;
+          flex-wrap: wrap;
+          flex-direction: column;
+          justify-content: space-between;
+          position: relative;
+          width: 33%;
+          border-radius: 12px;
+          background-color: #fff;
+        }
+        .stylehint-grid .container .modal {
+          display: none;
+          position: fixed;
+          z-index: 1;
+          padding-top: 100px;
+          left: 0;
+          top: 0;
+          width: 100%;
+          height: 100%;
+          overflow: auto;
+        }
+        .stylehint-grid .container .modal .modal-content {
+          margin: auto;
+          padding: 20px;
+          border: 1px solid #888;
+          width: 80%;
+          background-color: #fff;
+        }
+        .stylehint-grid .close {
+          float: right;
+          font-size: 28px;
+          font-weight: bold;
+        }
+        .stylehint-grid .close:hover,
+        .stylehint-grid .close:focus {
+          text-decoration: none;
+          cursor: pointer;
+        }
+        .stylehint-grid .modal {
+          display: none;
+          position: fixed;
+          z-index: 1;
+          padding-top: 100px;
+          left: 0;
+          top: 0;
+          width: 100%;
+          height: 100%;
+          overflow: auto;
+        }
+        .stylehint-grid .modal-button {
+          position: absolute;
+          width: 100%;
+          height: 100%;
+          top: 0;
+        }
+        .stylehint-grid .modal-content {
+          position: relative;
+          margin: auto;
+          padding: 1rem;
+          border: 1px solid #888;
+          width: 500px;
+          -webkit-animation-name: animatetop;
+          -webkit-animation-duration: 0.4s;
+          animation-name: animatetop;
+          animation-duration: 0.4s;
+        }
+  
+        .stylehint-grid .modal-header {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+        }
+        /* end of modal modules */
+  
+        .fr-fixedAnchor {
+            background-color: #fff;
+            background-color: var(--color-white);
+            border: 1px solid #dadada;
+            border: 1px solid var(--color-gray150);
+            border-width: 1px 0;
+            box-shadow: 0 4px 2px -3px #dadada;
+            box-shadow: 0 4px 2px -3px var(--color-gray150);
+            overflow-y: hidden;
+            position: -webkit-sticky;
+            position: sticky;
+            top: 0;
+            z-index: 11;
+            opacity: 0;
+            pointer-events: visible;
+        }
+        .fr-fixedAnchor.-loading {
+            opacity: 0;
+        }
+        .fr-fixedAnchor.-horizontalScroll .fr-fixedAnchor_inner {
+            overflow-x: scroll;
+            overflow-y: hidden;    
+            -webkit-overflow-scrolling: touch;
+            scrollbar-width: none;
+            -ms-overflow-style: none;
+        }
+        .fr-fixedAnchor.-horizontalScroll .fr-fixedAnchor_inner::-webkit-scrollbar {
+            display: none;
+        }
+        .fr-fixedAnchor_inner {
+            display: flex;
+        }
+        .fr-fixedAnchor_item {
+            cursor: pointer;
+            display: flex;
+            font-size: 12px;
+        }
+        .fr-fixedAnchor_itemLink {
+            align-items: center;
+            border-top: 2px solid #fff;
+            border-top: 2px solid var(--color-white);
+            border-bottom: 2px solid #fff;
+            border-bottom: 2px solid var(--color-white);
+            display: flex;
+            justify-content: center;
+            line-height: 18px;
+            padding: 4px 10px;
+            width: 100%;
+        }
+        .fr-fixedAnchor_itemLink.-current {
+            border-bottom-color: #1b1b1b;
+            border-bottom-color: var(--color-black900);
+        }
+        .fr-fixedAnchor_movingButton {
+            background: url(/jp/ja/contents/feature/common/icons/chevron_carousel.svg) #fff 0/7em 2em no-repeat;
+            background: url(/jp/ja/contents/feature/common/icons/chevron_carousel.svg) var(--color-white) 0/7em 2em no-repeat;
+            width: 40px;
+            height: 40px;
+            position: absolute;
+            top: 20px;
+            transition: 0.2s;
+            opacity: 0;
+            visibility: hidden;
+        }
+        .fr-anchorButton.-lineup .fr-anchorButton_item {
+            border-right: 0;
+        }
+        .fr-tabs {
+          border: none;
+        }
+        .fr-bff-products {
+          background-color:rgba(0,0,0,0)!important;
+        }
+        .fr-accordion {
+          max-width: initial;
+        }
+        .fr-accordion_heading {
+          min-height: 0;
+          padding: 10px 0;
+          font-size: initial;
+        }
+          
+        .txt-gray {color:#7d7d7d;}
+        .txt-bold {font-weight: bold;}
+        .txt-italic {font-style: italic;}
+        .txt-underline {text-decoration: underline;}
+      
+        .stylehint-caption {
+          padding: 5px;
+          font-size: 10px;
+        }
+      
+        .prod_attribute {
+            position: absolute;
+            top: 5%;
+            left: 5%;
+            width: 70px;
+            height: 150px;
+          }
+          .prod_attribute_child {
+            position: relative;
+            margin-bottom: 10px;
+          }
+          .prod_attribute_child img {
+            width: 100%;
+          }
+      
+          /* .-festive {
+            background-image: url('https://im.uniqlo.com/global-cms/spa/res84aa3737aa0a0c85a21df726fefb3b30fr.png');
+            background-color: #21352d;
+            background-size: 40%;
+            color: #fff;
+            background-repeat: repeat-x;
+            background-position: center;
+          } */
+          .-festive div {
+            max-width: 60%;
+            padding: 17px 1%;
+            margin: 0 auto;
+            background-color: #21352d;
+          }
+      
+          [data-component-type=ProductGrid] .fr-bff-product{
+            margin-top: 0 !important;
+          }
+          [data-component-type=ProductGrid] .fr-bff-product_colorChipsAndFavorite {
+            width: calc(100% - 7px);
+          }
+          .fr-bff-favorite {
+            width: 40px;
+            height: 40px;
+          }
+          li.fr-anchorButton_item {
+            position: relative;
+          }
+          li.fr-anchorButton_item:after {
+                  content: "";
+                  display: block;
+                  width: 30px;
+                  height: 30px;
+                  -webkit-mask-repeat: no-repeat;
+                  mask-repeat: no-repeat;
+                  -webkit-mask-size: 30px;
+                  mask-size: 30px;
+                  -webkit-mask-image: url(/jp/ja/special-feature/feature/common/icons/icon-arrow@3.0.0.svg#arrow);
+                  mask-image: url(/jp/ja/special-feature/feature/common/icons/icon-arrow@3.0.0.svg#arrow);
+                  background-color: #000;
+                  position: absolute;
+                  left: 50%;
+                  bottom: -21%;
+                  transform: translate(-50%, -50%) rotate(90deg);
+                  animation: bouncing 1s infinite;
+              }
+              @keyframes bouncing {
+                  50% {transform: translate(-50%, -30%) rotate(90deg);}
+                  100% {transform: translate(-50%, -50%) rotate(90deg);}
+              }
+  
+              
+              [data-component-type=ProductCarouselDestroy] .fr-bff-product {
+                width: 33%;
+              }
+  
+              .fr-bff-products[data-component-type="ProductCarouselDestroy"] {
+                width: 100%;
+              }
+              .modal-content [data-component-type=ProductCarouselDestroy] .fr-bff-product {
+                width: 33% !important;
+              }
+  
+              .highlight-intermezzo .fr-imagePlusText_content {
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+              }
+              .highlight-intermezzo .fr-imagePlusText_heading {
+                font-size: 1.5em;
+              }
+  
+          @media screen and (min-width:813px) {
+  
+            .stylehint-grid .container {
+              width: calc(25% - 1px);
+            }
+            .stylehint-grid .container .modal .modal-content {
+              width: 50%;
+            }
+            .highlight-intermezzo .fr-imagePlusText_imgWrap{
+              width: 50%;
+            }
+            .highlight-intermezzo {
+              justify-content: center;
+            }
+            .highlight-intermezzo .fr-imagePlusText{
+              max-width: 1176px;
+              width: 1176px;
+            }
+            .pc-flexBox {
+              max-width: 100%;
+              align-items: initial;
+              display: flex;
+              margin-left: auto;
+              margin-right: auto;
+              justify-content: space-between;
+            }
+            .pc-flexBox_item.-img {
+              width: 40%;
+            }
+            .pc-flexBox_item.-content {
+              width: 55%;
+            }
+            .pc-flexBox_item.-content [data-component-type=ProductCarouselDestroy] .fr-bff-product {
+              width: 33%;
+            }
+            .fr-imagePlusTextParent.highlight-USP .fr-imagePlusText {
+              width: 100%;
+            }
+            [data-component-type=ProductCarouselDestroy] .fr-bff-product {
+              width: 20%;
+              margin-top: 5px;
+            }
+            [data-component-type=ProductCarouselDestroy] .fr-bff-product .fr-bff-product_name {
+              font-size: 12px;
+            }
+        
+            #ht_category .fr-imagePlusText {width: calc((100% - 14px) / 10);}
+            .fr-globalHeader_inner{max-width:1226px!important;padding:0 25px!important;margin:0 auto!important}
+            .fr-imagePlusTextParent.-features {
+              max-width: 100%;
+            }
+            body, .wrapper {
+              background-color: initial !important;
+            }
+            .fr-imagePlusTextParent.-features .fr-imagePlusText {
+              width: calc((100% - 14px) / 3);
+            }
+            [data-component-type=ProductGridHorizontal] .fr-bff-product {
+              width: calc(100% - 12px);
+              margin-bottom: 15px;
+            }
+            .carousel-styling {
+              max-width: 800px;
+              margin-left: auto;
+              margin-right: auto;
+            }
+            .fr-globalHeader_inner{max-width:1226px!important;padding:0 25px!important;margin:0 auto!important}
+            .fr-globalHeader_inner{max-width:1226px!important;padding:0 25px!important;margin:0 auto!important}
+            .fr-imagePlusTextParent.-features {
+              max-width: 100%;
+            }
+            .fr-imagePlusTextParent.-features .fr-imagePlusText {
+              width: calc((100% - 14px) / 4);
+            }
+            .fr-linkButtonParent {
+              max-width: 660px;
+              margin-left: auto;
+              margin-right: auto;
+            }
+            .fr-anchorButton_itemInner {
+              display: flex;
+            }
+            .fr-anchorButton_item:last-of-type {
+              border-right: 0;
+            }
+            .fr-imagePlusText_content {
+              padding: 15px 0;
+            }
+            .u-fixedAnchorAdjust {
+              margin-top: -81px;
+              padding-top: 81px;
+            }
+            .fr-fixedAnchor {
+              border-width: 1px;
+            }
+            .fr-fixedAnchor_movingButton.-prev {
+              left: 0;
+            }
+            .fr-fixedAnchor_movingButton.-next {
+              background-position-x: -4em;
+              right: 0;
+            }
+            .fr-fixedAnchor.-isActiveMovingButtonPrev {
+              border-left-width: 0;
+            }
+            .fr-fixedAnchor.-isActiveMovingButtonNext {
+              border-right-width: 0;
+            }
+            .fr-fixedAnchor.-isActiveMovingButtonNext .fr-fixedAnchor_movingButton.-next,
+            .fr-fixedAnchor.-isActiveMovingButtonPrev .fr-fixedAnchor_movingButton.-prev {
+              opacity: 1;
+              visibility: visible;
+            }
+            .fr-fixedAnchor_item {
+              font-size: 17px;
+              padding: 0;
+            }
+            .fr-fixedAnchor.-horizontalScroll .fr-fixedAnchor_item {
+              flex-basis: 217px;
+              max-width: none;
+              min-width: 0;
+            }
+            .fr-fixedAnchor_itemLink {
+              line-height: 23.8px;
+              border-top-width: 4px;
+              border-bottom-width: 4px;
+              padding-right: 16px;
+              padding-left: 16px;
+            }
+            .fr-fixedAnchor.-horizontalScroll .fr-fixedAnchor_itemLink {
+              padding: 0 40px;
+            }
+            .-festive div {
+              max-width: 35%;
+            }
+            .highlight-joy {
+              justify-content: center;
+              gap: 15px;
+            }
+            .highlight-joy .fr-imagePlusText_content {
+              padding: 15px 0;
+            }
+            .-list.highlight-joy .fr-imagePlusText {
+              flex-direction: column;
+              width: calc((100% - 45px)/4);
+            }
+            .highlight-joy .fr-imagePlusText_imgWrap {
+              width: auto !important;
+            }
+            .-list.highlight-joy .fr-imagePlusText.-scene {
+              margin: 0;
+            }
+          }
+          @media screen and (max-width: 812px) {
+            
+            .highlight-intermezzo .fr-imagePlusText {
+              flex-direction: column;
+            }
+            .highlight-intermezzo .fr-imagePlusText_imgWrap{
+              width: 100%;
+            }
+            [data-component-type=ProductGrid] .fr-bff-product {
+                width: calc(32vw - 0.5px);
+              }
+            .fr-anchorButton_itemText {
+              padding: 5px;
+            }
+            .swiper-pagination-bullets.-sp-adjust-bullets {
+              bottom: 0px !important;
+            }
+          .-festive {
+              background-size: 240px !important;
+            }
+            .-list .fr-imagePlusText {
+              margin-top: 15px;
+            }
+            .fr-linkButtonParent {
+              margin-left: 15px;
+              margin-right: 15px;
+            }
+          }
+    </style>
+  
+  </head>
+  <body class="js-trackEventScroll" data-track-event-category="specialfeature_utme" data-measurement-points="[25, 50, 75, 100]" data-bff-version="v5" data-bff-region="id" data-bff-lang="id" data-updated-date="YYYYMMDD">
+    <!-- Google Tag Manager-->
+  
+  <noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KN4RJQ" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript>
+  
+<!-- End Google Tag Manager-->
+    <div class="wrapper">
+      <header><div id="globalHeader"></div>
+      </header>
+      <main class="main">
+        <div class="fr-fixedAnchor js-fr-fixedAnchor -loading" data-config='{
+          ".js-fixedAnchor_about": 0,
+          ".js-fixedAnchor_exclusive": 0,
+          ".js-fixedAnchor_globalcollection": 0,
+          ".js-fixedAnchor_faq": 0,
+          ".js-fixedAnchor_storelist": 0}'>
+          <div class="fr-fixedAnchor_container js-fr-fixedAnchor_container">
+            <ul class="fr-fixedAnchor_inner js-fr-fixedAnchor_inner">
+              
+              <li class="fr-fixedAnchor_item u-align-center js-fr-fixedAnchor_item">
+                <a class="fr-fixedAnchor_itemLink js-fr-fixedAnchor_itemLink js-smoothScroll js-trackEvent" data-link=".js-fixedAnchor_about" data-label="anchor_about">Tentang</a>
+              </li>
+              <li class="fr-fixedAnchor_item u-align-center js-fr-fixedAnchor_item">
+                <a class="fr-fixedAnchor_itemLink js-fr-fixedAnchor_itemLink js-smoothScroll js-trackEvent" data-link=".js-fixedAnchor_exclusive" data-label="anchor_exclusive">Koleksi Eksklusif</a>
+              </li>
+              <li class="fr-fixedAnchor_item u-align-center js-fr-fixedAnchor_item">
+                <a class="fr-fixedAnchor_itemLink js-fr-fixedAnchor_itemLink js-smoothScroll js-trackEvent" data-link=".js-fixedAnchor_globalcollection" data-label="anchor_globalcollection">Global Collection</a>
+              </li>
+              <li class="fr-fixedAnchor_item u-align-center js-fr-fixedAnchor_item">
+                <a class="fr-fixedAnchor_itemLink js-fr-fixedAnchor_itemLink js-smoothScroll js-trackEvent" data-link=".js-fixedAnchor_faq" data-label="anchor_faq">FAQ</a>
+              </li>
+              <li class="fr-fixedAnchor_item u-align-center js-fr-fixedAnchor_item">
+                <a class="fr-fixedAnchor_itemLink js-fr-fixedAnchor_itemLink js-smoothScroll js-trackEvent" data-link=".js-fixedAnchor_storelist" data-label="js-fixedAnchor_storelist">Store Information</a>
+              </li>
+            </ul> 
+          </div>
+        </div>
+
+        <div class="main_inner" style="padding-top: 0;">
+          <!-- <div style=" background-image: url('https://im.uniqlo.com/global-cms/spa/resa0e785d2e9817d9b0ab4f652fcaa0d34fr.png');
+          width: 100vw;
+          height: 100vh;
+          position: fixed;
+          z-index: -1;
+          opacity: .05;
+          background-size: contain;
+          background-size: 50%;
+          top: 0;
+          "></div> -->
+
+          <div class="pc-container -main js-fixedAnchorStart">
+
+            <!-- <nav class="fr-tabs -gender fr-pc-mt-m fr-sp-mt-m">
+              <ul class="fr-tabs_inner">
+                  <li class="fr-tabs_item">
+                      <a class="fr-tabs_itemLink fr-sp-py-xs fr-pc-py-xs fr-pc-px-m fr-sp-px-05g u-uqFont-r js-trackEvent" href="/id/en/special-feature/cp/hari-raya-essentials/women" data-label="gender_women" data-track-event-component="tabs">Women</a>
+                  </li>
+                  <li class="fr-tabs_item">
+                    <a class="fr-tabs_itemLink fr-sp-py-xs fr-pc-py-xs fr-pc-px-m fr-sp-px-05g u-uqFont-r js-trackEvent" href="/id/en/special-feature/cp/hari-raya-essentials/men" data-label="gender_men" data-track-event-component="tabs">Men</a>
+                  </li>
+                  <li class="fr-tabs_item -active">
+                    <a class="fr-tabs_itemLink fr-sp-py-xs fr-pc-py-xs fr-pc-px-m fr-sp-px-05g u-uqFont-r js-trackEvent" data-label="gender_kids" data-track-event-component="tabs">Kids</a>
+                  </li>
+              </ul>
+            </nav> -->
+
+            <div class="fr-breadcrumbs u-only-pc fr-pc-mt-l fr-pc-mb-l">
+              <ol class="fr-breadcrumbs_inner">
+                <li class="fr-breadcrumbs_item"><a class="fr-breadcrumbs_itemLink js-trackEvent" href="https://www.uniqlo.com/id/id/" data-label="Breadcrumb_01">Home Page</a></li>
+                <li class="fr-breadcrumbs_item"><a class="fr-breadcrumbs_itemLink js-trackEvent" href="https://www.uniqlo.com/id/id/special-feature/ut" data-label="Breadcrumb_02">UT Collection</a></li>
+                <li class="fr-breadcrumbs_item">UTme!</li>
+              </ol>
+            </div>
+
+            <h1 class="fr-heading -h1 fr-sp-px-05g fr-pc-mt-xl fr-sp-mt-xl">UTme! Design Your Own UT T-Shirts or Tote Bag</h1>
+            
+            <figure class="fr-pc-mt-m fr-sp-mt-m">
+              <picture>
+                <source srcset="https://im.uniqlo.com/global-cms/spa/res66b72038441ef10c21605e48e7e5d31cfr.jpg" media="(min-width: 813px)" type="image/jpeg"><img class="fr-img" src="https://im.uniqlo.com/global-cms/spa/res7aa4dc3c8b8ed34048e260f1c43b0de8fr.jpg" alt="UTme! Design your own UT T-shirts or Tote bags">
+              </picture>
+            </figure>
+            
+          </div>
+
+          <div class="js-trackEventReading" data-label="read_01"></div>
+          <section class="js-fixedAnchor_about u-fixedAnchorAdjust">
+
+            <div class="pc-container -main">
+
+              <figure class="fr-pc-mt-m fr-sp-mt-m">
+                <picture>
+                  <source srcset="https://im.uniqlo.com/global-cms/spa/res188512b03ef5aa710d1653a1560891ccfr.jpg" media="(min-width: 813px)" type="image/jpeg"><img class="fr-img" src="https://im.uniqlo.com/global-cms/spa/res54e02aef57daf6cd8dc4e3c8b58997f3fr.jpg" alt="Customisation Styles, choose your preferred customisation style!">
+                </picture>
+              </figure>
+
+              <figure class="fr-pc-mt-m fr-sp-mt-m">
+                <picture>
+                  <source srcset="https://im.uniqlo.com/global-cms/spa/res4bbe3ece32fac30b7e030fde4006ca7efr.jpg" media="(min-width: 813px)" type="image/jpeg"><img class="fr-img" src="https://im.uniqlo.com/global-cms/spa/res0ee1fb9562a0562e8e8cf69da699262bfr.jpg" alt="How to order UTme!">
+                </picture>
+              </figure>
+            
+            </div> <!-- /.main_inner -->
+                      
+          </section> <!-- Tentang -->
+
+          <div class="js-trackEventReading" data-label="read_02"></div>
+          <section class="js-fixedAnchor_exclusive u-fixedAnchorAdjust">
+
+            <div class="pc-container -main fr-sp-mt-m fr-pc-mt-m">
+
+                <h2 class="fr-heading -h2 fr-sp-px-05g u-align-center u-font-700 fr-pc-mt-xxl fr-sp-mt-xxl">Exclusive Collections</h2>
+                
+                <figure class="fr-pc-mt-m fr-sp-mt-m">
+                  <picture>
+                    <source srcset="https://im.uniqlo.com/global-cms/spa/res908413a04d95963b0aa21841c08a1199fr.jpg" media="(min-width: 813px)" type="image/jpeg"><img class="fr-img" src="https://im.uniqlo.com/global-cms/spa/res908413a04d95963b0aa21841c08a1199fr.jpg" alt="Customisation Styles, choose your preferred customisation style!">
+                  </picture>
+                </figure>
+
+                <div class="swiper-parent">
+                    <div class="swiper-container js-carousel" data-sp-panel="1" data-pc-panel="1">
+                      <div class="swiper-wrapper">
+
+                        <div class="swiper-slide"><a href="https://www.uniqlo.com/id/id/search/?q=utme" class="js-trackEvent" data-label="kv_utmepikachu"><picture>
+                        <source srcset="https://im.uniqlo.com/global-cms/spa/resd23662018514334f64087b799b7a7173fr.jpg" media="(min-width: 813px)" type="image/jpeg"><img class="fr-img" src="https://im.uniqlo.com/global-cms/spa/resd23662018514334f64087b799b7a7173fr.jpg" alt="Pikachu berkemeja batik">
+                        </picture></a>
+                        </div>
+                        <div class="swiper-slide"><a href="https://www.uniqlo.com/id/id/search/?q=utme" class="js-trackEvent" data-label="kv_utmepikachu"><picture>
+                        <source srcset="https://im.uniqlo.com/global-cms/spa/res316554730d62e81e2fa0ab2b1a34f072fr.jpg" media="(min-width: 813px)" type="image/jpeg"><img class="fr-img" src="https://im.uniqlo.com/global-cms/spa/res316554730d62e81e2fa0ab2b1a34f072fr.jpg" alt="Staryu dan Xatu">
+                        </picture></a>
+                        </div>
+
+                      </div>
+                    </div>
+                      <div class="swiper-pagination js-carouselPagination"></div>
+                      <div class="swiper-button-prev js-carouselButtonPrev js-trackEvent" data-category="" data-label="kv_right"></div>
+                      <div class="swiper-button-next js-carouselButtonNext js-trackEvent" data-category="" data-label="kv_left"></div>
+                </div>
+
+                <div class="fr-bff-products js-fr-bff-products fr-sp-mt-l fr-sp-px-05g" data-products='[
+                    {"id":"E481197-002","color_code":"","price_group":"00","sub_image":""},
+                    {"id":"E481197-001","color_code":"","price_group":"00","sub_image":""},
+                    {"id":"E481198-002","color_code":"","price_group":"00","sub_image":""},
+                    {"id":"E481198-001","color_code":"","price_group":"00","sub_image":""}
+                  ]' data-component-type="ProductCarouselDestroy" data-sp-panel="" data-pc-panel="" data-sp-option="" data-pc-option="">
+                </div>
+
+            </div>
+            
+          </section> <!-- Koleksi Eksklusif -->
+
+          <div class="js-trackEventReading" data-label="read_03"></div>
+          <section class="js-fixedAnchor_globalcollection u-fixedAnchorAdjust">
+
+              <div class="pc-container -main fr-sp-mt-m fr-pc-mt-m">
+
+                <h2 class="fr-heading -h2 fr-sp-px-05g u-align-center u-font-700 fr-pc-mt-xxl fr-sp-mt-xxl">Global Collections</h2>
+
+                <figure class="fr-pc-mt-m fr-sp-mt-m">
+                  <picture>
+                    <source srcset="https://im.uniqlo.com/global-cms/spa/resa4f581a02660f466ce947f19b9799234fr.jpg" media="(min-width: 813px)" type="image/jpeg"><img class="fr-img" src="https://im.uniqlo.com/global-cms/spa/rese06655efe44fcdd5f71770424577f556fr.jpg" alt="Disney Posters! The collection of posters evokes fond memories of childhood films and beloved disney characters.">
+                  </picture>
+                </figure>
+
+                <figure class="fr-pc-mt-m fr-sp-mt-m">
+                  <picture>
+                    <source srcset="https://im.uniqlo.com/global-cms/spa/res8c677b6f11137558d558c802191c7a06fr.jpg" media="(min-width: 813px)" type="image/jpeg"><img class="fr-img" src="https://im.uniqlo.com/global-cms/spa/res544cc9638a89a4f885e0bda9280c5f4dfr.jpg" alt="Marvel Comics Collection! A special collection featuring your favourite MARVEL comics characters">
+                  </picture>
+                </figure>
+
+                <figure class="fr-pc-mt-m fr-sp-mt-m">
+                  <picture>
+                    <source srcset="https://im.uniqlo.com/global-cms/spa/rese982da0b75df008d2fd42b0319bf811afr.jpg" media="(min-width: 813px)" type="image/jpeg"><img class="fr-img" src="https://im.uniqlo.com/global-cms/spa/res1bc69504555f2be664e2b54975a188ddfr.jpg" alt="Sumikkogurashi are the characters living a quiet and solitary life in the corner. They might be able to settle down when they're in the corners but they don't like being in the centre of the room. When they're taken to the centre of the room, they always rush back to the corner.">
+                  </picture>
+                </figure>
+
+                <figure class="fr-pc-mt-m fr-sp-mt-m">
+                  <picture>
+                    <source srcset="https://im.uniqlo.com/global-cms/spa/resc2e027aefdd01d9d4f00f116a9ecea58fr.jpg" media="(min-width: 813px)" type="image/jpeg"><img class="fr-img" src="https://im.uniqlo.com/global-cms/spa/resefab9ae47e03e70f194932074b112849fr.jpg" alt="The origin of relaxing character styles, 'Tarepanda'. Following it's name, Tarepanda's characteristic pose and omovements express a personality that cannot be forgotten. Tarepanda is soft to the touch and surprisingly sturdy. Moves mainly by rolling around at 2,75mp. Loves sweet mochi cakes.">
+                  </picture>
+                </figure>
+
+                <figure class="fr-pc-mt-m fr-sp-mt-m">
+                  <picture>
+                    <source srcset="https://im.uniqlo.com/global-cms/spa/res619e6a47be3ed0a8333205e61866c77ffr.jpg" media="(min-width: 813px)" type="image/jpeg"><img class="fr-img" src="https://im.uniqlo.com/global-cms/spa/res28b4b722e3205b9fb099557c67530ed3fr.jpg" alt="Peanuts Collection, Enjoy your favourite design of Snoopy and his friends.">
+                  </picture>
+                </figure>
+
+                <figure class="fr-pc-mt-m fr-sp-mt-m">
+                  <picture>
+                    <source srcset="https://im.uniqlo.com/global-cms/spa/res4bbe3ece32fac30b7e030fde4006ca7efr.jpg" media="(min-width: 813px)" type="image/jpeg"><img class="fr-img" src="https://im.uniqlo.com/global-cms/spa/res0ee1fb9562a0562e8e8cf69da699262bfr.jpg" alt="How to order UTme!">
+                  </picture>
+                </figure>
+
+                <figure class="fr-pc-mt-m fr-sp-mt-m">
+                  <picture>
+                    <source srcset="https://im.uniqlo.com/global-cms/spa/res32bb73d94dc88d84b3ea5455f9ed0ffafr.jpg" media="(min-width: 813px)" type="image/jpeg"><img class="fr-img" src="https://im.uniqlo.com/global-cms/spa/res54e02aef57daf6cd8dc4e3c8b58997f3fr.jpg" alt="Customisation Styles">
+                  </picture>
+                </figure>
+
+                <figure class="fr-pc-mt-m fr-sp-mt-m">
+                  <picture>
+                    <source srcset="https://im.uniqlo.com/global-cms/spa/res36aa62ac1ef60338dffd531acfb90cecfr.jpg" media="(min-width: 813px)" type="image/jpeg"><img class="fr-img" src="https://im.uniqlo.com/global-cms/spa/res912b48ea1081dbb33334529cf9cf0788fr.jpg" alt="UTme! Sticker designs, choose your favourite sticker and design a T-shirt or Tote Bag">
+                  </picture>
+                </figure>
+
+                <figure class="fr-pc-mt-m fr-sp-mt-m">
+                  <picture>
+                    <source srcset="https://im.uniqlo.com/global-cms/spa/resa1f17d73c6992ec3be0d3a56b2ece636fr.jpg" media="(min-width: 813px)" type="image/jpeg"><img class="fr-img" src="https://im.uniqlo.com/global-cms/spa/resa28a973a6a152e8c721b1806c68493fbfr.jpg" alt="Tabel harga UTme!">
+                  </picture>
+                </figure>
+
+              </div>
+            
+          </section> <!-- Global Collection -->          
+
+          <div class="js-trackEventReading" data-label="read_04"></div>
+          <section class="js-fixedAnchor_faq u-fixedAnchorAdjust">
+
+            <div class="pc-container -main">
+
+              <h2 class="fr-heading -h2 fr-sp-px-05g u-align-center u-font-700 fr-pc-mt-xxl fr-sp-mt-xxl">FAQ UTme!</h2>
+
+              <div class="fr-accordion -productsFeature fr-sp-mt-xl fr-pc-mt-xl">
+              <input class="fr-accordion_checkBox" type="checkbox" id="fr-accordion_1">
+              <label class="fr-accordion_heading js-trackEvent" data-label="feature_01" for="fr-accordion_1"><span class="fr-accordion_headingInner fr-sp-px-05g">Can I use my own design for the UTme! printing?</span></label>
+                <div class="fr-accordion_content">
+                  <div class="fr-accordion_contentInner -feature fr-sp-px-05g">
+                    <div class="accordion_contentInner -featureTxt">
+
+                      <p>Please make sure that your submitted design does not include the following prohibited content. We may not be able to accept orders which fail to adhere to our design guidelines.</p>
+                      <p>Unauthorised contents that infringe on third party rights:</p>
+                      <p>- Names, portraits, photographs, and/ or other contents of celebrities, entertainers, and famous characters.</p>
+                      <p>- Photographs of other individuals, where the person is identifiable.</p>
+                      <p>- Names, brand names, logos, and/or other contents which express famous companies and famous brands.</p>
+                      <p>- Non-Fungible Tokens (NFTs).</p>
+                      <p class="fr-pc-mt-s fr-sp-mt-s">Inappropriate immoral content:</p>
+                      <p>- Indecent or vulgar language or content.</p>
+                      <p>- Content that causes disgust, discomfort, or anxiety.</p>
+                      <p>- Content that could tarnish the reputation or cause other harm to a third party.</p>
+                      <p>- Antisocial content.</p>
+                      <p>- Political content.</p>
+                      <p>- Other content that we deem to be inappropriate.</p>
+                    </div>
+                  </div>
+                </div>
+              </div> <!-- Berapa lama proses Klik & Ambil? -->
+
+              <div class="fr-accordion -productsFeature fr-sp-mt-xs fr-pc-mt-xs">
+                <input class="fr-accordion_checkBox" type="checkbox" id="fr-accordion_2">
+                <label class="fr-accordion_heading js-trackEvent" data-label="feature_02" for="fr-accordion_2"><span class="fr-accordion_headingInner fr-sp-px-05g">Can I print Non-Fungible Tokens (NFTs) for UTme! printing?</span></label>
+                  <div class="fr-accordion_content">
+                    <div class="fr-accordion_contentInner -feature fr-sp-px-05g">
+                      
+                      <div class="accordion_contentInner -featureTxt">
+                        <p>No, printing of Non-Fungible Tokens (NFTs) is strictly prohibited.</p>
+                      </div>
+                    </div>
+                  </div>
+              </div> <!-- Mengapa pesanan Click & Collect saya tidak dapat diambil dalam waktu 1 (satu) hari? -->
+
+              <div class="fr-accordion -productsFeature fr-sp-mt-xs fr-pc-mt-xs">
+                <input class="fr-accordion_checkBox" type="checkbox" id="fr-accordion_3">
+                <label class="fr-accordion_heading js-trackEvent" data-label="feature_03" for="fr-accordion_3"><span class="fr-accordion_headingInner fr-sp-px-05g">What is the recommended washing method?</span></label>
+                  <div class="fr-accordion_content">
+                    <div class="fr-accordion_contentInner -feature fr-sp-px-05g">
+                      <!-- <div class="accordion_contentInner -featureImg">
+                        <figure class="u-imgAdjustBox" data-aspect-ratio="345:173">
+                          <picture class="u-imgAdjustBox_inner">
+                            <source data-srcset="https://image.uniqlo.com/UQ/ST3/jp/imagesother/roger-federer-collection/product1_feature.jpg" type="image/jpeg">
+                            <img class="fr-img lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="https://image.uniqlo.com/UQ/ST3/jp/imagesother/roger-federer-collection/product1_feature.jpg" alt="商品の特長" data-expand="300">
+                          </picture>
+                        </figure>
+                      </div> -->
+                      <div class="accordion_contentInner -featureTxt">
+                        <p>1&rpar; Turn the T-shirt inside out when washing to reduce friction on the printed area when tumbling in the washing machine.</p>
+                        <p>2&rpar; Use low temperature or cold wash settings.</p>
+                        <p>3&rpar; Wash dark color items separately.</p>
+                        <p>4&rpar; Use a mild laundry detergent.</p>
+                        <p>5&rpar; Hang it to dry under the shade.</p>
+                      </div>
+                    </div>
+                  </div>
+              </div> <!-- Apakah saya bisa mengambil pesanan langsung setelah pembayaran? -->
+
+              <div class="fr-accordion -productsFeature fr-sp-mt-xs fr-pc-mt-xs">
+                <input class="fr-accordion_checkBox" type="checkbox" id="fr-accordion_4">
+                <label class="fr-accordion_heading js-trackEvent" data-label="feature_04" for="fr-accordion_4"><span class="fr-accordion_headingInner fr-sp-px-05g">How long do I need to wait for my T-shirt to be printed?</span></label>
+                  <div class="fr-accordion_content">
+                    <div class="fr-accordion_contentInner -feature fr-sp-px-05g">
+                      
+                      <div class="accordion_contentInner -featureTxt">
+                        <p>The printing time for our UTme! T-shirt customisation service is subjected to the number of daily orders in queue. You may contact our store in advance for further advice.</p>
+                      </div>
+                    </div>
+                  </div>
+              </div> <!-- Bagaimana cara mengambil pesanan saya? -->
+
+            </div>            
+            
+          </section> <!-- FAQ -->
+
+          <div class="js-trackEventReading" data-label="read_05"></div>
+          <section class="js-fixedAnchor_storelist u-fixedAnchorAdjust">
+
+            <div class="pc-container -main fr-sp-px-05g">
+
+              <h2 class="fr-heading -h2 fr-sp-px-05g u-align-center u-font-700 fr-pc-mt-xxl fr-sp-mt-xxl">Store Information</h2>
+              <p class="fr-pc-mt-xs fr-sp-mt-xs u-align-center">Temukan layanan UTme! di toko UNIQLO berikut:</p>
+
+              <div class="pc-flexBox fr-pc-mt-l fr-sp-mt-l">
+                <div class="pc-flexBox_item -img">
+
+                  <h3 class="fr-heading -h3">UNIQLO SENAYAN CITY</h3>
+                  <p>Jl. Asia Afrika No.Lot. 19, Gelora, Tanah Abang, Kota Jakarta Pusat, DKI Jakarta</p>
+
+                </div>
+                <div class="pc-flexBox_item -content">
+
+                  <div class="fr-linkButtonParent -horizontal fr-sp-mt-m" style="max-width:100%;">
+                    <a class="fr-linkButton -l js-trackEvent" data-label="store-senayancity" href="https://map.uniqlo.com/id/id/detail/10901519">Store Locator</a>
+                  </div>
+              
+                </div>
+              </div> <!-- UNIQLO Senayan City -->
+
+              <div class="pc-flexBox fr-pc-mt-l fr-sp-mt-l">
+                <div class="pc-flexBox_item -img">
+
+                  <h3 class="fr-heading -h3">UNIQLO GRAND INDONESIA</h3>
+                  <p>Jl. MH Thamrin No. 1 Jakarta Pusat</p>
+
+                </div>
+                <div class="pc-flexBox_item -content">
+
+                  <div class="fr-linkButtonParent -horizontal fr-sp-mt-m" style="max-width:100%;">
+                    <a class="fr-linkButton -l js-trackEvent" data-label="store-grandindonesia" href="https://map.uniqlo.com/id/id/detail/10901506">Store Locator</a>
+                  </div>
+              
+                </div>
+              </div> <!-- UNIQLO Grand Indonesia -->
+
+              <div class="pc-flexBox fr-pc-mt-l fr-sp-mt-l">
+                <div class="pc-flexBox_item -img">
+
+                  <h3 class="fr-heading -h3">UNIQLO MAL BALI GALERIA</h3>
+                  <p>Jl. By Pass Ngurah Rai, Simpang Dewa Ruci, Kuta, Kabupaten Badung, Bali</p>
+
+                </div>
+                <div class="pc-flexBox_item -content">
+
+                  <div class="fr-linkButtonParent -horizontal fr-sp-mt-m" style="max-width:100%;">
+                    <a class="fr-linkButton -l js-trackEvent" data-label="store-grandindonesia" href="https://map.uniqlo.com/id/id/detail/10901520">Store Locator</a>
+                  </div>
+              
+                </div>
+              </div> <!-- UNIQLO Grand Indonesia -->
+
+              <div class="pc-flexBox fr-pc-mt-l fr-sp-mt-l">
+                <div class="pc-flexBox_item -img">
+
+                  <h3 class="fr-heading -h3">UNIQLO PONDOK INDAH MALL 3</h3>
+                  <p>Jl. Sultan Iskandar Muda No.28E, Pd. Pinang, Kec. Kby. Lama, Kota Jakarta Selatan, DKI Jakarta</p>
+
+                </div>
+                <div class="pc-flexBox_item -content">
+
+                  <div class="fr-linkButtonParent -horizontal fr-sp-mt-m" style="max-width:100%;">
+                    <a class="fr-linkButton -l js-trackEvent" data-label="store-grandindonesia" href="https://map.uniqlo.com/id/id/detail/10901542">Store Locator</a>
+                  </div>
+              
+                </div>
+              </div> <!-- UNIQLO Grand Indonesia -->
+
+            </div>
+
+            <div class="fr-linkButtonParent -horizontal fr-pc-mt-l fr-sp-mt-l fr-sp-px-05g" style="max-width:100%;"> <a class="fr-linkButton -l -black js-trackEvent" data-label="viewmore_utcollection" href="https://www.uniqlo.com/id/id/spl/ut-collection">Check Out All UT Collection</a>
+            </div>
+              
+          </section> <!-- Store Information -->
+
+        </div>
+      </main>
+      <aside class="aside">
+        <!-- <div id="common_banner" data-cms-region="id" data-cms-lang="en" data-cms-type="iden" data-feature-cms-id="2578" data-buttons-cms-id="2546" data-lifewear-cms-id="0000"></div> -->
+                <div class="fr-breadcrumbs fr-sp-mt-xxxl u-only-sp fr-sp-px-05g">
+                  <ol class="fr-breadcrumbs_inner">
+                    <li class="fr-breadcrumbs_item"><a class="fr-breadcrumbs_itemLink js-trackEvent" href="https://www.uniqlo.com/id/id/" data-label="Breadcrumb_01">Home Page</a></li>
+                    <li class="fr-breadcrumbs_item"><a class="fr-breadcrumbs_itemLink js-trackEvent" href="https://www.uniqlo.com/id/id/special-feature/ut" data-label="Breadcrumb_02">UT Collection</a></li>
+                    <li class="fr-breadcrumbs_item">UTme!</li>
+                  </ol>
+                </div>
+      </aside>
+      <footer><style>@font-face{font-family:UniqloPro Light;src:url(/jp/ja/special-feature/feature/common/fonts/UniqloProLight.woff2) format("woff2"),url(/jp/ja/special-feature/feature/common/fonts/UniqloProLight.woff) format("woff");font-display:swap}@font-face{font-family:UniqloPro Regular;src:url(/jp/ja/special-feature/feature/common/fonts/UniqloProRegular.woff2) format("woff2"),url(/jp/ja/special-feature/feature/common/fonts/UniqloProRegular.woff) format("woff");font-display:swap}@font-face{font-family:UniqloPro Bold;src:url(/jp/ja/special-feature/feature/common/fonts/UniqloProBold.woff2) format("woff2"),url(/jp/ja/special-feature/feature/common/fonts/UniqloProBold.woff) format("woff");font-display:swap}.fr-globalFooter{box-sizing:border-box!important;min-width:320px!important;margin-top:36px!important}.fr-globalFooter_inner{box-sizing:border-box!important;text-align:center!important}.fr-globalFooter_navigation{border-top:1px solid #dadada!important;padding-top:28px!important;padding-bottom:28px!important;background-color:#fff!important;text-align:center!important}.fr-globalFooter_logoLink{display:inline-block!important}.fr-globalFooter_logoImg{width:auto!important;height:36px!important}.fr-globalFooter_logoImgFill{fill:red!important}.fr-globalFooter_navigationItems{font-size:16px!important}.fr-globalFooter_navigationItem,.fr-globalFooter_snsItems{margin-top:28px!important;padding-left:4vw!important;padding-right:4vw!important}.fr-globalFooter_snsItems{display:flex!important;justify-content:center!important}.fr-globalFooter_snsItem+.fr-globalFooter_snsItem{margin-left:8vw!important}.fr-globalFooter_snsItem{display:flex!important;align-items:center!important;justify-content:center!important}.fr-globalFooter_snsItemLink{display:block!important;width:24px!important;height:24px!important;-webkit-mask-repeat:no-repeat!important;mask-repeat:no-repeat!important;-webkit-mask-position:center!important;mask-position:center!important;-webkit-mask-size:24px!important;mask-size:24px!important;background-color:var(--color-fill-primary)!important}.fr-globalFooter_snsItemLink.-facebook{width:25px!important;height:25px!important;-webkit-mask-size:25px!important;mask-size:25px!important;-webkit-mask-image:url(/jp/ja/special-feature/feature/common/icons/icon-facebook@2.0.0.svg#facebook)!important;mask-image:url(/jp/ja/special-feature/feature/common/icons/icon-facebook@2.0.0.svg#facebook)!important}.fr-globalFooter_snsItemLink.-twitter{-webkit-mask-image:url(/jp/ja/special-feature/common/icons/x.svg)!important;mask-image:url(/jp/ja/special-feature/common/icons/x.svg)!important}.fr-globalFooter_snsItemLink.-line{-webkit-mask-image:url(/jp/ja/special-feature/feature/common/icons/icon-line@2.0.0.svg#line)!important;mask-image:url(/jp/ja/special-feature/feature/common/icons/icon-line@2.0.0.svg#line)!important}.fr-globalFooter_snsItemLink.-instagram{-webkit-mask-image:url(/jp/ja/special-feature/feature/common/icons/icon-instagram@2.0.0.svg#instagram)!important;mask-image:url(/jp/ja/special-feature/feature/common/icons/icon-instagram@2.0.0.svg#instagram)!important}.fr-globalFooter_snsItemLink.-youtube{width:28px!important;height:20px!important;-webkit-mask-size:28px 20px!important;mask-size:28px 20px!important;-webkit-mask-image:url(/jp/ja/special-feature/feature/common/icons/icon-youtube@2.0.0.svg#youtube)!important;mask-image:url(/jp/ja/special-feature/feature/common/icons/icon-youtube@2.0.0.svg#youtube)!important}.fr-globalFooter_snsItemLink.-ticktok{-webkit-mask-image:url(/jp/ja/special-feature/feature/common/icons/icon-ticktok@2.0.0.svg#ticktok)!important;mask-image:url(/jp/ja/special-feature/feature/common/icons/icon-ticktok@2.0.0.svg#ticktok)!important}.fr-globalFooter_copyright{border-top:1px solid #dadada!important;background:#f4f4f4!important;padding:20px 4vw!important;color:#6a6a6a!important;font-size:13px!important;line-height:1.3}body .fr-globalFooter_copyright,html.frNativeApp body .fr-globalFooter_copyright{padding:28px 0!important}[lang=ja] .fr-globalFooter_copyright,[lang=ko] .fr-globalFooter_copyright{line-height:1.5!important}@media screen and (min-width:813px){.fr-globalFooter{margin-top:60px!important}.fr-globalFooter_inner{text-align:left!important;margin-left:auto!important;margin-right:auto!important}.fr-globalFooter_navigation{padding-bottom:28px!important}.fr-globalFooter_navigationInner{display:flex!important;align-items:center!important;width:100%!important;max-width:1224px!important;margin-right:auto!important;margin-left:auto!important;padding-left:24px!important;padding-right:24px!important}.fr-globalFooter_logo{margin-top:0!important}.fr-globalFooter_navigationItems{font-size:14px!important;display:flex!important;justify-content:center!important}.fr-globalFooter_navigationItem{margin-left:24px!important}.fr-globalFooter_navigationItem,.fr-globalFooter_snsItems{margin-top:0!important;padding-left:0!important;padding-right:0!important}.fr-globalFooter_snsItems{justify-content:flex-end!important;align-items:center!important;margin-left:auto!important}.fr-globalFooter_snsItems.u-only-sp{display:none!important}.fr-globalFooter_snsItem+.fr-globalFooter_snsItem{margin-left:24px!important}.fr-globalFooter_copyright{margin:0 auto!important;padding:20px 0!important}.fr-globalFooter_copyrightInner{display:flex!important;align-items:center!important;max-width:1224px!important;padding-left:24px!important;padding-right:24px!important;width:100%!important;margin-right:auto!important;margin-left:auto!important}}@media screen and (max-width:812px){.fr-globalFooter_snsItems.u-only-pc{display:none!important}}@media screen and (max-width:599px){body .fr-globalFooter_copyright,html.frNativeApp body .fr-globalFooter_copyright{padding:20px 4vw!important}}</style>
+<div class="fr-globalFooter">
+  <div class="fr-globalFooter_inner">
+    <div class="fr-globalFooter_copyright">
+      <div class="fr-globalFooter_copyrightInner"><small>Copyright &copy; UNIQLO Co., Ltd. All rights reserved.</small>
+      </div>
+    </div>
+  </div>
+</div>
+      </footer>
+    </div>
+    <!-- <button class="fr-pagetop js-fr-pagetop js-smoothScroll" type="button" data-link=".wrapper" data-pagetop-is-active="false"></button>
+    <div class="modal -theme js-modal" data-modal-is-active="false"> -->
+      <div class="modal_contents">
+        <div class="modal_contentsInner js-modal_contentsInner"></div>
+        <button class="modal_close js-modal_close" type="button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="#f00" fill-rule="evenodd" d="M19.63 3.54L12 11.17 4.38 3.54 3 4.92l7.63 7.62L3 20.17l1.38 1.37L12 13.92l7.63 7.62L21 20.17l-7.62-7.63L21 4.92l-1.37-1.38z"/></svg></button>
+      </div>
+      <div class="modal_overlay js-modal_close"></div>
+    </div>
+    <script type="application/ld+json">{
+	"@context": "http://schema.org",
+	"@type": "BreadcrumbList",
+	"itemListElement": [
+		{
+			"@type": "ListItem",
+			"position": 1,
+			"item": {
+				"@id": "https://www.uniqlo.com/id/id/",
+				"name": "UNIQLO Home Page"
+			}
+		},
+		{
+			"@type": "ListItem",
+			"position": 2,
+			"item": {
+				"@id": "https://www.uniqlo.com/id/id/special-feature/ut",
+				"name": "UT Collection"
+			}
+		}
+		{
+			"@type": "ListItem",
+			"position": 3,
+			"item": {
+				"@id": "https://www.uniqlo.com/id/id/special-feature/ut-collection/ut-me",
+				"name": "UTme!"
+			}
+		}
+	]
+}</script>
+<script>
+  var swiper = new Swiper(".mySwiper", {
+      slidesPerView: 2,
+      spaceBetween: 10,
+      centerInsufficientSlides: true,
+      freeMode: true,
+      pagination: {
+        el: ".swiper-pagination",
+        clickable: true,
+      },
+      breakpoints: {
+        640: {
+          slidesPerView: 3
+        }
+      }
+    });
+</script>
+<script>    
+      document.addEventListener('DOMContentLoaded', function () {        
+        if (window.location.hash === '#men') {
+          const targetDiv = document.querySelectorAll('.tab_men');
+          const targetDivtoRemove1 = document.querySelectorAll('.tab_women');
+          const targetDiv2 = document.querySelectorAll('.tabcontent_men');
+          const targetDivtoRemove2 = document.querySelectorAll('.tabcontent_women');
+            targetDiv.forEach(tab_men => {
+              tab_men.classList.add('active');
+            });
+            targetDivtoRemove1.forEach(tab_women => {
+              tab_women.classList.remove('active');
+            });
+
+            targetDiv2.forEach(tabcontent_men => {
+              tabcontent_men.classList.add('active');
+            });
+            targetDivtoRemove2.forEach(tabcontent_women => {
+              tabcontent_women.classList.remove('active');
+            });
+          } else if (window.location.hash === '#kids') {
+            const targetDiv = document.querySelectorAll('.tab_kids');
+            const targetDivtoRemove1 = document.querySelectorAll('.tab_women');
+            const targetDiv2 = document.querySelectorAll('.tabcontent_kids');
+            const targetDivtoRemove2 = document.querySelectorAll('.tabcontent_women');
+              targetDiv.forEach(tab_kids => {
+                tab_kids.classList.add('active');
+              });
+              targetDivtoRemove1.forEach(tab_women => {
+                tab_women.classList.remove('active');
+              });
+
+              targetDiv2.forEach(tabcontent_kids => {
+                tabcontent_kids.classList.add('active');
+              });
+              targetDivtoRemove2.forEach(tabcontent_women => {
+                tabcontent_women.classList.remove('active');
+              });
+            }
+        });
+    
+    </script> <!-- tabbing anchor -->
+
+    <script>
+      var btn = document.querySelectorAll("a.modal-button");
+      var modals = document.querySelectorAll(".modal");
+      var spans = document.getElementsByClassName("close");
+      for (var i = 0; i < btn.length; i++) {
+        btn[i].onclick = function (e) {
+          e.preventDefault();
+          modal = document.querySelector(e.target.getAttribute("href"));
+          modal.style.display = "block";
+        };
+      }
+      for (var i = 0; i < spans.length; i++) {
+        spans[i].onclick = function () {
+          for (var index in modals) {
+            if (typeof modals[index].style !== "undefined")
+              modals[index].style.display = "none";
+          }
+        };
+      }
+      window.onclick = function (event) {
+        if (event.target.classList.contains("modal")) {
+          for (var index in modals) {
+            if (typeof modals[index].style !== "undefined")
+              modals[index].style.display = "none";
+          }
+        }
+      };
+  </script>
+  </body>
+</html>
