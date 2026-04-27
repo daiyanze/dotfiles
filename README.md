@@ -9,7 +9,7 @@ My personal dotfiles repo
 $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 
 # Brew install
-$ brew install chezmoi neovim tmux nvm mise rg cmake jq bat uv imagemagick
+$ brew install chezmoi neovim tmux nvm mise rg cmake jq bat uv imagemagick fzf
 
 # Generate ssh-key pairs
 $ ssh-keygen -t rsa -b 4096
